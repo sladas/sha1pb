@@ -1,0 +1,1 @@
+Implementation of SHA1 algorithm in C# language. Project for accademic usage.
